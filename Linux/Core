@@ -1,1 +1,16 @@
-#Linux Core Competencies: 
+#Linux Core Competencies
+
+'''
+Knowledge of Linux internals such as a kernel, process, thread, memory stack vs memory heap, and root access.
+Basic Bash 
+Creation and manipulation of files and directories.
+Usage of Package Manager - 
+Text Editors [vim, nano]
+Linux boot process
+Secure Shell (SSH)
+Connecting to remote environments and copying files over the network 
+'''
+Daily/frequent commands:
+pwd, cd, ls -al, mkdir, rvdir, cp,mv, rv, touch, cat, vim, nano, man, locate, echo, aws configure, ssh config, 
+GIT commands, AWS commands, apt-get install, pip install, ping, sudo apt update, sudo apt upgrade, scp, wge, ps, 
+ps -aux, ssh -Tv, kill, grep
