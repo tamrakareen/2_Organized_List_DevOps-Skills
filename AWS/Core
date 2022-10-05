@@ -1,50 +1,71 @@
 
-#AWS Core Competencies:  
-'''
-AWS SKills:
+#AWS Core Competencies  
 
-Key Competencies:
+'''
+Core Competencies:
 
 Launch secure Amazon EC2 instance with auto scaling policy - 
     Securing an EC2 instance using security groups, a VPC, and a subnet and adding an auto scaling policy.
+   
 Attach Amazon EBS volume to Amazon EC2 instance - 
     Creating a new EBS volume and attaching it to an EC2 instance that is already running for extra storage.
+
 Configure an Amazon S3 bucket for static website hosting - 
     Hosting a static website on Amazon S3 by configuring an S3 bucket for website hosting and uploading.
+
 Develop and deploy a serverless application using AWS Lambda - 
     Authoring a Lambda function in one of the supported programming languages. 
+
 Create and query an Amazon DynamoDB table - 
     Creating a table in DynamoDB, populating it with data, and querying it using both primary keys and user-defined indexes.
+
 Secure an Amazon S3 bucket - 
     Securing objects in an S3 bucket using a bucket policy. 
+
 Create AWS IAM user and user group - 
     Creating an IAM administrative user and adding that user to an administrator group.
+
 Ensure security of database secrets using AWS Secrets Manager - 
     Storing and retrieving secret keys shared between different AWS resources using AWS Secrets Manager.
 
-Service Specfic Competencies:
+Create cloud notification using SNS -
+    Publishing a notification using Amazon Simple Notification Service (SNS). 
 
-IAM:
-Create IAM Identities using AWS Console and CLI
-Enable ' Cross account access'
-Create ' Identity Provider' in AWS
+Deploy an application using Elastic Beanstalk - 
+    Deploying a Java application to AWS Elastic Beanstalk. 
 
-EC2:
+Trigger Lambda based on S3 file upload - 
+    Launching a Lambda based on an Amazon S3 Event. 
+
+Use API Gateway as a proxy for DynamoDB - 
+    Exposing data in a DynamoDB table via API Gateway. 
+
+Deploy AWS resources using CloudFormation - 
+    Infrastructure as Code (IaC) to launch AWS resources. 
+
+Create a CloudFront distribution for content stored in Amazon S3 - 
+    Using CloudFront as a Content Delivery Network (CDN) to speed up the delivery of content found in S3. 
+
+Build and run Docker container using Amazon ECS - 
+    Building and running a Docker container using Amazon ECS. 
+
+Create a CloudWatch monitoring alert - 
+    Monitoring systems and alerting based on errors found in a log file. 
+
+Implement a load balancer to increase capacity for an application - 
+    Automatically distributing incoming application traffic across multiple targets using elastic load balancing.
 
 
-ELB
-
-Auto Scaling Groups
-
-VPC
-
-Databases
-
-DNS
-
-Containers
-
+Services I've used:
+IAM
+EC2
+S3
+Route53
+DynamoDB
+CloudFront
+CloudWatch
+CloudLog
 Lambda
-
 Elastic Beanstalk
-'''
+EKS
+FSX
