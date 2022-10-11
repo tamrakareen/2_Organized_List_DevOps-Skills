@@ -5,7 +5,7 @@
 #AWS Certified DevOps Engineer, Studying
 
 '''
-Core Competencies:
+Core Competencies/Projects:
 
 Launch secure Amazon EC2 instance with auto scaling policy - 
     Securing an EC2 instance using security groups, a VPC, and a subnet and adding an auto scaling policy.
