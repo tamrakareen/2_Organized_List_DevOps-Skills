@@ -1,0 +1,12 @@
+#Jenkins- automating a delivery pipeline
+
+Tasks:
+Accessing Jenkins dashboard and configuring Maven in Jenkins
+Creation of our first build job in Jenkins for a Spring PetClinic application
+Developing and viewing of a delivery pipeline of a Spring PetClinic application with two stages build and test in Jenkins
+Transforming your delivery pipeline in the form of scripted pipeline
+Creation of a declarative pipeline for our Spring Pet Clinic application
+Developing Jenkinsfile for our application
+
+<img width="484" alt="second" src="https://user-images.githubusercontent.com/94250541/195650612-46a2131f-cbc5-4a87-8927-1528396957b0.png">
+
