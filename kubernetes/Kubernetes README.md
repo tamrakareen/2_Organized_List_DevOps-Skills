@@ -4,7 +4,7 @@
 
 *If links are missing, projects are done, documentation is in progress*
 
-1. Building a K8s 1.24 Cluster with kubeadm
+1. [Building a K8s 1.24 Cluster with kubeadm](https://github.com/tamrakareen/2_Organized_List_DevOps-Skills/blob/a7de879fa1bfaf1cb1c0fc24994b3f54912c1e6f/kubernetes/create_cluster.md)
 2. Deploying a Simple Service to K8s 
 3. Deploying a Microservice Application to Kubernetes
 4. Creating a Kubernetes Cluster
