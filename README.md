@@ -3,4 +3,11 @@ Hi, I'm Tamra. I'm a DevOps Engineer Intern and student based in Denver, CO. Thi
 
 ![devops](https://bmsastech.com/wp-content/uploads/2020/05/Devops-scaled.jpg)
 
+**AWS**
+
+**Linux**
+**Python**
+**Terraform**
+**Kubernetes**
+**Docker**
 
