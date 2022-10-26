@@ -1,7 +1,13 @@
 # DevOps-Skills
- Hi, I'm Tamra. I'm a DevOps Engineer Intern and student based in Denver, CO. This organized list of projects and labs is a work in progress, beautiful documentation takes time :) If you'd like to know more about me and my interests outside of devops, scroll to the bottom of this page! Thanks for visiting!
+ Hi, I'm Tamra. I'm a DevOps Engineer Intern and student based in Denver, CO. This organized list of projects and labs is a work in progress, beautiful documentation takes time :) If you'd like to see my resume and read a little about my interests outside of devops, click the links just below. Thanks for the visit.
 
 ![devops](https://bmsastech.com/wp-content/uploads/2020/05/Devops-scaled.jpg)
+
+💻 [Resume]()
+
+📜 [Certifications]()
+
+🤹🏻‍♀️ [Interests]()
 
 ### Table of Contents
 1. [AWS](#AWS)
@@ -10,6 +16,8 @@
 4. [Terraform](#Terraform)
 5. [Kubernetes](#Kubernetes)
 6. [Docker](#Docker)
+7. [Resume](#Resume)
+8. [Interests](#Interests)
 
 <a name="AWS"></a> <ins>**AWS**</ins> 
 
@@ -109,3 +117,9 @@ Setting up Kubernetes Cluster with Docker
 Scaling Pods in Kubernetes
 
 Creating Helm Charts
+
+<a name="Resume"></a> <ins>**Resume**</ins> 
+
+
+
+<a name="Interests"></a> <ins>**Interests**</ins> 
