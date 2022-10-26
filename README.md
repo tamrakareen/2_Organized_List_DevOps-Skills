@@ -26,52 +26,26 @@
 
 <a name="Terraform"></a> <ins>**Terraform**</ins> 
 
-<a name="Kubernetes"></a> <ins>**Kubernetes**</ins> 
+|<a name="Kubernetes"></a> <ins>**Kubernetes**</ins>     | *Click on projects to navagate to the repo*                                                 |
+| :---                                                   | :---                                                 | 
+| Building a K8s 1.24 Cluster with kubeadm               | Configuring Prometheus to Use Service Discovery      |      
+| Deploying a Simple Service to K8s                      | Creating Alerting Rules                              |
+| Deploying a Microservice Application to Kubernetes     | Repairing Failed Pods in Kubernetes                  |
+| Creating a Kubernetes Cluster                          | Creating Certificate Authority and TLS Certs for K8s |
+| Deploying a Pod to a Node with a Label in Kubernetes   | Generating Kubeconfigs for a New K8s Cluster         |
+| Installing and Testing the Components of a K8s Cluster | Generating a Data Encryption Config for Kubernetes   |
+| Creating a Persistent Storage for Pods in Kubernetes   | Bootstrapping a K8s Worker Node                      |
+| Creating a ClusterRole to Access a PV in Kubernetes    | Bootstrapping a K8s Control Plane                    |
+| Smoke Testing a Kubernetes Cluster                     | Bootstrapping an etcd Cluster for Kubernetes         |
+| Upgrading the Kubernetes Cluster Using kubeadm         | Setting Up K8s Networking with Weave Net             |
+| Monitor and Output Logs to a File in Kubernetes        |                                                      |
 
-Building a K8s 1.24 Cluster with kubeadm
 
-Deploying a Simple Service to K8s
-
-Deploying a Microservice Application to Kubernetes
-
-Creating a Kubernetes Cluster
-
-Deploying a Pod to a Node with a Label in Kubernetes
-
-Installing and Testing the Components of a K8s Cluster
-
-Creating a Persistent Storage for Pods in Kubernetes
-
-Creating a ClusterRole to Access a PV in Kubernetes
-
-Smoke Testing a Kubernetes Cluster
-
-Upgrading the Kubernetes Cluster Using kubeadm
-
-Monitor and Output Logs to a File in Kubernetes
-
-Configuring Prometheus to Use Service Discovery
-
-Creating Alerting Rules
-
-Repairing Failed Pods in Kubernetes
-
-Creating Certificate Authority and TLS Certs for K8s
-
-Generating Kubeconfigs for a New K8s Cluster
-
-Generating a Data Encryption Config for Kubernetes
-
-Bootstrapping a K8s Worker Node
-
-Bootstrapping a K8s Control Plane
-
-Bootstrapping an etcd Cluster for Kubernetes
-
-Setting Up K8s Networking with Weave Net
 
 
 <a name="Docker"></a> <ins>**Docker**</ins> 
+
+```
 
 Intializing Docker Environment
 
@@ -116,6 +90,8 @@ Setting up Kubernetes Cluster with Docker
 Scaling Pods in Kubernetes
 
 Creating Helm Charts
+
+```
 
 <a name="Various"></a> <ins>**Various**</ins> 
 
