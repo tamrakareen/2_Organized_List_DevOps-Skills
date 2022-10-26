@@ -1,17 +1,25 @@
 # DevOps-Skills
-Hi, I'm Tamra. I'm a DevOps Engineer Intern and student based in Denver, CO. This organized list of projects and labs is a work in progress, beautiful documentation takes time :) If you'd like to know more about me and my interests outside of devops, scroll to the bottom of this page! Thanks for visiting!
+ Hi, I'm Tamra. I'm a DevOps Engineer Intern and student based in Denver, CO. This organized list of projects and labs is a work in progress, beautiful documentation takes time :) If you'd like to know more about me and my interests outside of devops, scroll to the bottom of this page! Thanks for visiting!
 
 ![devops](https://bmsastech.com/wp-content/uploads/2020/05/Devops-scaled.jpg)
 
-<ins>**AWS**</ins> 
+### Table of Contents
+1. [AWS](#AWS)
+2. [Linux](#Linux)
+3. [Python](#Python)
+4. [Terraform](#Terraform)
+5. [Kubernetes](#Kubernetes)
+6. [Docker](#Docker)
 
-<ins>**Linux**</ins> 
+<a name="AWS"></a> <ins>**AWS**</ins> 
 
-<ins>**Python**</ins> 
+<a name="Linux"></a> <ins>**Linux**</ins> 
 
-<ins>**Terraform**</ins> 
+<a name="Python"></a> <ins>**Python**</ins> 
 
-<ins>**Kubernetes**</ins> 
+<a name="Terraform"></a> <ins>**Terraform**</ins> 
+
+<a name="Kubernetes"></a> <ins>**Kubernetes**</ins> 
 
 Building a K8s 1.24 Cluster with kubeadm
 
@@ -56,7 +64,7 @@ Bootstrapping an etcd Cluster for Kubernetes
 Setting Up K8s Networking with Weave Net
 
 
-<ins>**Docker**</ins> 
+<a name="Docker"></a> <ins>**Docker**</ins> 
 
 Intializing Docker Environment
 
