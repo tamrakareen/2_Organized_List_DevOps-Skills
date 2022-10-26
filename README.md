@@ -16,8 +16,7 @@
 4. [Terraform](#Terraform)
 5. [Kubernetes](#Kubernetes)
 6. [Docker](#Docker)
-7. [Resume](#Resume)
-8. [Interests](#Interests)
+8. [Various](#Various)
 
 <a name="AWS"></a> <ins>**AWS**</ins> 
 
@@ -118,8 +117,5 @@ Scaling Pods in Kubernetes
 
 Creating Helm Charts
 
-<a name="Resume"></a> <ins>**Resume**</ins> 
+<a name="Various"></a> <ins>**Various**</ins> 
 
-
-
-<a name="Interests"></a> <ins>**Interests**</ins> 
