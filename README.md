@@ -26,7 +26,7 @@
 
 <a name="Terraform"></a> <ins>**Terraform**</ins> 
 
-|<a name="Kubernetes"></a> <ins>**Kubernetes**</ins>     | *Click on projects to navagate to the repo*                                                 |
+|<a name="Kubernetes"></a> <ins>**Kubernetes**</ins>     | _                                               |
 | :---                                                   | :---                                                 | 
 | Building a K8s 1.24 Cluster with kubeadm               | Configuring Prometheus to Use Service Discovery      |      
 | Deploying a Simple Service to K8s                      | Creating Alerting Rules                              |
