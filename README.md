@@ -3,7 +3,7 @@
 
 ![devops](https://bmsastech.com/wp-content/uploads/2020/05/Devops-scaled.jpg)
 
-💻 [Resume]()
+💻 [Resume](https://tamrakareen.github.io)
 
 📜 [Certifications]()
 
